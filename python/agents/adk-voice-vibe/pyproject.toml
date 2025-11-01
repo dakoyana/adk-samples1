@@ -1,0 +1,9 @@
+[project]
+name = "adk-voice-vibe"
+version = "0.1.0"
+description = "Minimal real-time conversational agent for quick vibe checks using ADK and Gemini Live API"
+requires-python = ">=3.10"
+dependencies = [
+    "google-adk>=1.14.1",
+    "certifi>=2024.0.0",
+]
